@@ -3,4 +3,4 @@
     The second argument should be a DataFrame, where each row is an instance, with
     column names that are consistent with what the model is expecting)."""
 def predict(model, instances):
-    return instances.apply(model, axis="columns")
+    return instances.apply(model_function, axis="columns")
