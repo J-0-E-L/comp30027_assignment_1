@@ -54,4 +54,4 @@ def gaussian_pdf(mean, sd, x_value, take_log = False):
     if take_log:
         return -(x_value - mean)**2/(2*sd**2) - np.log(sd*np.sqrt(2*np.pi))
     else:
-        (1/sd*np.sqrt(2*np.pi))*np.exp(-(x_value - mean)**2/(2*sd**2))
+        return (1/sd*np.sqrt(2*np.pi))*np.exp(-(x_value - mean)**2/(2*sd**2))
