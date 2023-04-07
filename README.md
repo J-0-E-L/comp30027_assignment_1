@@ -10,14 +10,14 @@ All of the code for this assignment is in the Jupyter notebook file
 assignment were Question 3, 5 and 6.
 
 The code in the Jupyter notebook is broken up into 3 sections:
-- Section 0: Helper Functions. The code in this section contains all the
+- **Section 0: Helper Functions.** The code in this section contains all the
 helper functions that are used for the naive Bayes model. This includes
 the preprocess, train, predict and evaluate functions.
-- Section 1: Pop vs. Classical Music Classification. This section contains
+- **Section 1: Pop vs. Classical Music Classification.** This section contains
 all the code that is used for training and testing the naive Bayes model on 
 the 'pop_vs_classical_train.csv' and 'pop_vs_classical_test.csv' datasets. 
 The model is used to complete questions 1 and 2 of the assignment.
-- Section 2: 10-Way Music Genre Classification. This section contains
+- **Section 2: 10-Way Music Genre Classification.** This section contains
 all the code that is used for training and testing the naive Bayes model on 
 the 'gztan_train.csv' and 'gztan_test.csv' datasets. There is also code used
 for question 3, 5 and 6 in this part.
