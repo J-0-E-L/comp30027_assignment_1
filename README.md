@@ -34,3 +34,6 @@ can run each code cell one at a time in the order presented.
 **Important Note:** Please run the code cells in the order that it is presented 
 in the notebook. Changing the order may lead to errors or unexpected output
 that differs from what was expected in the report.
+
+## Report
+See "COMP30027 Machine Learning Project 1.pdf" for our final conclusions.
