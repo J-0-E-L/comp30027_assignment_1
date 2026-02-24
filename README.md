@@ -1,8 +1,8 @@
 # COMP30027 Machine Learning: Assignment 1
 
 ## Group Members:
-- Joel Griffin (1072476)
-- Thomas Black (1172648)
+- Joel Griffin
+- Thomas Black
 
 ## About:
 All of the code for this assignment is in the Jupyter notebook file
